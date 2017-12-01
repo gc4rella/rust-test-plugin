@@ -1,0 +1,11 @@
+[package]
+name = "rust-test-plugin"
+version = "0.1.0"
+authors = ["Lorenzo Tomasini <lorenzo.tomasini@gmail.com>"]
+
+[dependencies]
+openbaton = { path = "../rust-openbaton" }
+log = "0.3"
+env_logger = "0.3"
+log4rs = "0.7.0"
+serde = "1.0"

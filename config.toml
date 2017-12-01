@@ -1,0 +1,7 @@
+broker_ip = "localhost"
+broker_port = 5672
+username = "openbaton-manager-user"
+password = "openbaton"
+type = "rust"
+name = "rust"
+vhost = "/"
